@@ -18,3 +18,4 @@ probably a proxies function to stop errors from multiple requests
 a function to not need a list for user ids and for the bot to just check from a start id to an ending id 
 possibly an update .exe version with its own standalone app and ui and functions section 
 
+# READ THE README.TXT LISTED WITH THE CODE 
