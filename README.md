@@ -23,4 +23,4 @@ possibly an update .exe version with its own standalone app and ui and functions
 
 
 # Updates 
-Update 1.5 is out now with the new ID scrape function that allows you to scrape Roblox ID's and than run scans on them in the same session on cmd prompt
+Update 1.5 is out now with the new ID scrape function that allows you to scrape Roblox ID's and than run scans on them in the same session on cmd prompt (To access the new update files go to branches and select update 1.5)
